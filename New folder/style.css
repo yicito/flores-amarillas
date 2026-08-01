@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    background-image: url("imagenes/rio.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:black;
+    font-family:'Poppins',sans-serif;
+}
+
+#mensaje{
+    display:none;
+    text-align:center;
+}
+
+button{
+    padding:15px 30px;
+    font-size:20px;
+    border-radius:10px;
+    cursor:pointer;
+}
