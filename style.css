@@ -9,8 +9,8 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color:rgb(255, 255, 255);
-    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-family:Helvetica, sans-serif;
 }
 
 #mensaje{
